@@ -15,4 +15,4 @@ This project provides a machine learning pipeline that translates raw, unreadabl
 
 ---
 ### Final Classification Output
-![Titan Map]([(https://github.com/Yatiajitsingh/geotechnical-radar-classification/blob/main/Titan_Map.png)])
+![Titan Map](https://github.com/Yatiajitsingh/geotechnical-radar-classification/blob/main/Titan_Map.png)
